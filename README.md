@@ -2,8 +2,8 @@
 
 **`Desenvolvedor Backend / Desenvolvedor de Jogos / Curioso de tudo`**
 
-Me chamo Gilson Paulino, alcunhado como 3JSMasters (coisa de quem joga jogos online) e sou um desenvolvedor de software com foco em desenvolvimento de jogos e backend. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitario Carioca (UNICARIOCA) e sou um entusiasta de tecnologia e jogos.
-Estive muito tempo fugindo do Github, começarei a ser mais ativo na comunidade!
+My name is Gilson Paulino, nicknamed 3JSMasters (something for those who play online games) and I am a software developer focusing on game and backend development. I'm currently studying Systems Analysis and Development at Centro Universitario Carioca (UNICARIOCA) and I'm a technology and games enthusiast. I've been running away from Github for a long time, I'm going to start being more active in the community!
+
 <p align="left">
     <a href="https://github.com/3JSMasters?tab=repositories&sort=stargazers">
         <img 
